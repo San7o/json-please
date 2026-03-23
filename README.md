@@ -14,7 +14,7 @@ Serialization:
 auto json = Json({{"name",   this->name},
                   {"age",    this->age},
                   {"height", this->height}});
-std::string json.serialize();
+std::string str = json.serialize();
 ```
 
 Deserialization:
