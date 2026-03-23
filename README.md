@@ -1,6 +1,6 @@
 ![](./json-please-banner.png)
 
-Simple and fast json serializer-deserializer in C++.
+Simple and blazingly fast json serializer-deserializer in C++.
 
 - Author:  Giovanni Santini
 - Mail:    giovanni.santini@proton.me
